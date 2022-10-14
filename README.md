@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```{
+    "First Name": "Maksim"
+    "Last Name": "Kushniruk"
+    "Interests": ["OOP", "Databases"]    
+}```
