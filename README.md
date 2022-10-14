@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-```{
+```
+{
     "First Name": "Maksim"
     "Last Name": "Kushniruk"
     "Interests": ["OOP", "Databases"]    
-}```
+}
+```
