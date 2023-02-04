@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 {
     "First Name": "Maksim"
     "Last Name": "Kushniruk"
-    "Interests": ["OOP", "Databases"]    
+    "Interests": ["OOP", "DDD"]    
 }
 ```
