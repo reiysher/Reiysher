@@ -22,3 +22,5 @@ Here are some ideas to get you started:
     "Interests": ["OOP", "DDD"]    
 }
 ```
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=reiysher&theme=midnight-purple&layout=compact)
