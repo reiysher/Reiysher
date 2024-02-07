@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 ```json
 {
-    "First Name": "Maksim"
-    "Last Name": "Kushniruk"
+    "FirstName": "Maksim"
+    "LastName": "Kushniruk"
     "Interests": ["OOP", "DDD", "TDD", "ES"]    
 }
 ```
